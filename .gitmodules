@@ -4,3 +4,6 @@
 [submodule "meta-ti"]
 	path = meta-ti
 	url = ./meta-ti
+[submodule "meta-arm"]
+	path = meta-arm
+	url = ./meta-arm
