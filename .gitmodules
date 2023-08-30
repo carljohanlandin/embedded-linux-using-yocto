@@ -7,3 +7,6 @@
 [submodule "meta-arm"]
 	path = meta-arm
 	url = ./meta-arm
+[submodule "meta-raspberrypi"]
+	path = meta-raspberrypi
+	url = ./meta-raspberrypi
